@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\task2_angular\\task2_angular.client\\src\\app\\nour\\service\\service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|solutionrelative:task2_angular.client\\src\\app\\nour\\service\\service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\task2_angular\\task2_angular.client\\src\\app\\nour\\subservice\\subservice.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|solutionrelative:task2_angular.client\\src\\app\\nour\\subservice\\subservice.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\task2_angular\\task2_angular.client\\src\\app\\nour\\subservice\\subservice.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|solutionrelative:task2_angular.client\\src\\app\\nour\\subservice\\subservice.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\task2_angular\\task2_angular.client\\src\\app\\nour\\noururl\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|solutionrelative:task2_angular.client\\src\\app\\nour\\noururl\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\task2_angular\\task2_angular.client\\src\\app\\nour\\service\\service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|solutionrelative:task2_angular.client\\src\\app\\nour\\service\\service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\task2_angular\\task2_angular.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|solutionrelative:task2_angular.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB895CB-7C05-4928-8101-AB4EE36F50A0}|Task2_Angular.Server\\Task2_Angular.Server.csproj|c:\\users\\orange\\desktop\\angular\\task2_angular\\task2_angular.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB895CB-7C05-4928-8101-AB4EE36F50A0}|Task2_Angular.Server\\Task2_Angular.Server.csproj|solutionrelative:task2_angular.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\task2_angular\\task2_angular.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|solutionrelative:task2_angular.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\task2_angular\\task2_angular.client\\src\\app\\nour\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|solutionrelative:task2_angular.client\\src\\app\\nour\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\task2_angular\\task2_angular.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A22F53AA-7966-4017-A70E-41D42E9AADB5}|task2_angular.client\\task2_angular.client.esproj|solutionrelative:task2_angular.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB895CB-7C05-4928-8101-AB4EE36F50A0}|Task2_Angular.Server\\Task2_Angular.Server.csproj|c:\\users\\orange\\desktop\\angular\\task2_angular\\task2_angular.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CB895CB-7C05-4928-8101-AB4EE36F50A0}|Task2_Angular.Server\\Task2_Angular.Server.csproj|solutionrelative:task2_angular.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB895CB-7C05-4928-8101-AB4EE36F50A0}|Task2_Angular.Server\\Task2_Angular.Server.csproj|c:\\users\\orange\\desktop\\angular\\task2_angular\\task2_angular.server\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB895CB-7C05-4928-8101-AB4EE36F50A0}|Task2_Angular.Server\\Task2_Angular.Server.csproj|solutionrelative:task2_angular.server\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB895CB-7C05-4928-8101-AB4EE36F50A0}|Task2_Angular.Server\\Task2_Angular.Server.csproj|c:\\users\\orange\\desktop\\angular\\task2_angular\\task2_angular.server\\controllers\\subservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB895CB-7C05-4928-8101-AB4EE36F50A0}|Task2_Angular.Server\\Task2_Angular.Server.csproj|solutionrelative:task2_angular.server\\controllers\\subservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB895CB-7C05-4928-8101-AB4EE36F50A0}|Task2_Angular.Server\\Task2_Angular.Server.csproj|c:\\users\\orange\\desktop\\angular\\task2_angular\\task2_angular.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB895CB-7C05-4928-8101-AB4EE36F50A0}|Task2_Angular.Server\\Task2_Angular.Server.csproj|solutionrelative:task2_angular.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "subservice.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\Nour\\subservice\\subservice.component.ts",
+              "RelativeDocumentMoniker": "task2_angular.client\\src\\app\\Nour\\subservice\\subservice.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\Nour\\subservice\\subservice.component.ts",
+              "RelativeToolTip": "task2_angular.client\\src\\app\\Nour\\subservice\\subservice.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T13:57:14.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "service.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\Nour\\service\\service.component.html",
+              "RelativeDocumentMoniker": "task2_angular.client\\src\\app\\Nour\\service\\service.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\Nour\\service\\service.component.html",
+              "RelativeToolTip": "task2_angular.client\\src\\app\\Nour\\service\\service.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T14:21:40.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "service.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\Nour\\service\\service.component.ts",
+              "RelativeDocumentMoniker": "task2_angular.client\\src\\app\\Nour\\service\\service.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\Nour\\service\\service.component.ts",
+              "RelativeToolTip": "task2_angular.client\\src\\app\\Nour\\service\\service.component.ts",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T13:32:14.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "task2_angular.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "task2_angular.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T12:49:01.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\Task2_Angular.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Task2_Angular.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\Task2_Angular.Server\\Program.cs",
+              "RelativeToolTip": "Task2_Angular.Server\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:32:32.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "subservice.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\Nour\\subservice\\subservice.component.html",
+              "RelativeDocumentMoniker": "task2_angular.client\\src\\app\\Nour\\subservice\\subservice.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\Nour\\subservice\\subservice.component.html",
+              "RelativeToolTip": "task2_angular.client\\src\\app\\Nour\\subservice\\subservice.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T13:03:31.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "url.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\Nour\\NourURL\\url.service.ts",
+              "RelativeDocumentMoniker": "task2_angular.client\\src\\app\\Nour\\NourURL\\url.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\Nour\\NourURL\\url.service.ts",
+              "RelativeToolTip": "task2_angular.client\\src\\app\\Nour\\NourURL\\url.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T13:18:47.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "task2_angular.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "task2_angular.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T12:45:19.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\Nour\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "task2_angular.client\\src\\app\\Nour\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\app\\Nour\\navbar\\navbar.component.html",
+              "RelativeToolTip": "task2_angular.client\\src\\app\\Nour\\navbar\\navbar.component.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T12:46:12.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\index.html",
+              "RelativeDocumentMoniker": "task2_angular.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\task2_angular.client\\src\\index.html",
+              "RelativeToolTip": "task2_angular.client\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAADLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T12:48:31.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\Task2_Angular.Server\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Task2_Angular.Server\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\Task2_Angular.Server\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Task2_Angular.Server\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:38:14.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\Task2_Angular.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Task2_Angular.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\Task2_Angular.Server\\appsettings.json",
+              "RelativeToolTip": "Task2_Angular.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T12:33:20.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubserviceController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\Task2_Angular.Server\\Controllers\\SubserviceController.cs",
+              "RelativeDocumentMoniker": "Task2_Angular.Server\\Controllers\\SubserviceController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\Task2_Angular.Server\\Controllers\\SubserviceController.cs",
+              "RelativeToolTip": "Task2_Angular.Server\\Controllers\\SubserviceController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:39:20.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\Task2_Angular.Server\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Task2_Angular.Server\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2_Angular\\Task2_Angular.Server\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "Task2_Angular.Server\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:32:05.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
